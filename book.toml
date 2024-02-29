@@ -5,3 +5,4 @@ multilingual = false
 src = "src"
 title = "Design document for the Morpho Gmsh Extension"
 [output.html]
+git-repository-url = "https://github.com/joshichaitanya3/gmsh-design-docs"
