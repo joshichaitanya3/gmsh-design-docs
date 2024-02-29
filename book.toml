@@ -1,0 +1,7 @@
+[book]
+authors = ["Chaitanya Joshi"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Design document for the Morpho Gmsh Extension"
+[output.html]

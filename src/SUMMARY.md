@@ -1,0 +1,17 @@
+# Summary
+
+- [Introduction](./introduction.md)
+- [Installation Instructions](./installation.md)
+- [Anatomy of the Gmsh Extension](./anatomy_of_extension.md)
+- [The Gmsh API](./gmsh_api.md)
+  - [gen.py](./gmshApi/gen.md)
+  - [genApi.py](./gmshApi/genApi.md)
+- [API auto-generation](./api_autogeneration.md)
+  - [Skeleton of a Morpho wrapper extension](./apiAutogeneration/skeleton.md)
+  - [The `arg` class](./apiAutogeneration/arg.md)
+  - [Capturing inputs](./apiAutogeneration/capturing_inputs.md)
+  - [Capturing and returning the C outputs](./apiAutogeneration/capturing_and_returning_outputs.md)
+  - [Auto-generating inline documentation](./apiAutogeneration/autodoc.md)
+  - [Writing it all to the files](./apiAutogeneration/write_module.md)
+- [Implementation of the Gmsh Module in Morpho](./gmsh_in_morpho.md)
+- [Some To-do's](./to_dos.md)
